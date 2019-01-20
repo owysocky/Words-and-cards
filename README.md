@@ -1,6 +1,6 @@
-# _Your Sentance_
+# _Words and cards_
 
-#### _Your Sentance 01/19/2019_
+#### _Words and cards 01/20/2019_
 
 #### By _**Olha Wysocky and Pavel Zanchuk**_
 
