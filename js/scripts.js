@@ -4,12 +4,11 @@ $(document).ready(function() {
 
     var theInput = $("input#sentance").val();
     var words = theInput.split(" ");
-    var newWords = [];
-    words.map(function(word){
-    if(parseInt(word.length)>=3){
-        newWords.push(word);
-      }
-    });
+
+    newWords = words.filter(word=>parseInt(word.length)>=3);
+
+
+
 
     var string = "";
     newWords.reverse();
